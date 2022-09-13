@@ -1,0 +1,21 @@
+body {
+    background: #f1f5f9;
+}
+.wrapper {
+    width: 13rem;
+    height: 3rem;
+    font-size: smaller;
+    text-align: center;
+
+}
+#getData {
+    font-size: xx-small;
+    width: 6rem;
+    height: 2rem;
+    outline: none;
+    border: none;
+    border-radius: 1rem;
+    background: #facc15;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
